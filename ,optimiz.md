@@ -1,6 +1,6 @@
 <a href="http://tiny.cc/optimiz"><img align=right src="https://tiny.cc/tiny/qr-image/tiny.cc~optimiz~l~150.png"></a>
 
-# Optimiz
+### Optimiz
 Example optimization data files.
 
 ```
