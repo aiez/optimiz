@@ -61,7 +61,7 @@ make help
     konfig    http://tiny.cc/konfig   shared Makefile, dotfiles
     regress   http://tiny.cc/regress  regression datasets
     klassif   http://tiny.cc/klassif  classification datasets
-    lull      http://tiny.cc/lull     code that reads these files
+    luamine   http://tiny.cc/luamine  code that reads these files
 
 ## LICENSE
 
