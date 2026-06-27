@@ -15,8 +15,6 @@ git clone https://github.com/aiez/optimiz optimiz && cd optimiz
 make help
 ```
 
-<a href="https://github.com/aiez/optimiz"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~optimiz~l~150.png"></a>
-
 **Sections:** [NAME](#name) | [DATA](#data) | [FILES](#files) | [SEE ALSO](#see-also) | [LICENSE](#license) | [AUTHOR](#author)
 
 ## NAME
