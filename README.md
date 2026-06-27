@@ -1,7 +1,7 @@
 <!-- Copyright (c) 2026 Tim Menzies, MIT License https://opensource.org/licenses/MIT -->
 <a href="https://timm.fyi"><img align="right" alt="Author" src="https://img.shields.io/badge/Author-timm-dc143c?logo=readme&logoColor=white"></a><img align="right" alt="Language" src="https://img.shields.io/badge/Language-CSV-000080?logo=files&logoColor=white"><img align="right" alt="License" src="https://img.shields.io/badge/License-MIT-32cd32?logo=open-source-initiative&logoColor=white"><img align="right" alt="Purpose" src="https://img.shields.io/badge/Purpose-Data·Optimization-7b68ee?logo=githubcopilot&logoColor=white">
 
-### [http://tiny.cc/optimiz](http://tiny.cc/optimiz)
+### [https://github.com/aiez/optimiz](https://github.com/aiez/optimiz)
 Example multi-objective optimization datasets: 100+ CSV files with
 self-describing headers — column names encode type and goal, so no
 separate schema files are needed. Topics span software config,
@@ -10,12 +10,12 @@ and RL. Data only, no code.
 
 ```bash
 # install
-git clone http://tiny.cc/konfig ../konfig
-git clone http://tiny.cc/optimiz optimiz && cd optimiz
+git clone https://github.com/aiez/konfig ../konfig
+git clone https://github.com/aiez/optimiz optimiz && cd optimiz
 make help
 ```
 
-<a href="http://tiny.cc/optimiz"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~optimiz~l~150.png"></a>
+<a href="https://github.com/aiez/optimiz"><img width="150" align="right" alt="qr" src="https://tiny.cc/tiny/qr-image/tiny.cc~optimiz~l~150.png"></a>
 
 **Sections:** [NAME](#name) | [DATA](#data) | [FILES](#files) | [SEE ALSO](#see-also) | [LICENSE](#license) | [AUTHOR](#author)
 
@@ -60,10 +60,10 @@ make help
 
 ## SEE ALSO
 
-    konfig    http://tiny.cc/konfig   shared Makefile, dotfiles
+    konfig    https://github.com/aiez/konfig   shared Makefile, dotfiles
     regress   http://tiny.cc/regress  regression datasets
-    klassif   http://tiny.cc/klassif  classification datasets
-    luamine   http://tiny.cc/luamine  code that reads these files
+    klassif   https://github.com/aiez/klassif  classification datasets
+    luamine   https://github.com/aiez/luamine  code that reads these files
 
 ## LICENSE
 
